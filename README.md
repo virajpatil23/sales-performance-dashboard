@@ -97,5 +97,4 @@ Profit Margin % = DIVIDE([Total Profit], [Total Revenue])
 Viraj Patil
 
 ## 📄 License
-
 This project is for portfolio and educational purposes.
